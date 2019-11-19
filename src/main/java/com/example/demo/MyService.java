@@ -18,6 +18,6 @@ public class MyService {
         } catch(Exception e) {
             e.printStackTrace();
         }
-        return "";
+        return " ";
     }
 }
